@@ -21,7 +21,10 @@
 .button {
     background: none repeat scroll 0 0 #45ac9d;
 }
-
+#masterhead nav ul li {
+	float:left;
+	margin:0 10px;
+}
 /*blog post on homepage*/
 
 /* blog post on homepage */
